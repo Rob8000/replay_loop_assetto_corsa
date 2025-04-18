@@ -1,0 +1,1 @@
+This is an Assetto Corsa app that will loop over a section of a replay from 3 different camera angles. You may need to move the camera by pressing the onboard camera buttons for Move forward and Move backwards in the controls settings of Content Manager.
